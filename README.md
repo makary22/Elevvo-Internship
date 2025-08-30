@@ -35,3 +35,12 @@ Conduct deeper statistical analysis or feature engineering.
 Integrate more advanced models (e.g., XGBoost ).
 
 Deploy models or visualizations as a web app.
+
+## 🚀 How to Run the Application  
+
+1. Open your terminal (**CMD**, **PowerShell**, or **Git Bash**).  
+2. Navigate to the project directory.  
+3. Run the following command:  
+
+```bash
+streamlit run app.py
