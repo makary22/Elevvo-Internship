@@ -31,7 +31,7 @@ This repo documents the core data science tasks I completed as part of my intern
 
 - Add interactive dashboards (e.g., using **Plotly** or **Streamlit**).  
 - Conduct deeper **statistical analysis** and **feature engineering**.  
-- Integrate more advanced models (e.g., **XGBoost ).  
+- Integrate more advanced models (e.g., **XGBoost** ).  
 - Deploy models or visualizations as a **web application**.  
 
 
